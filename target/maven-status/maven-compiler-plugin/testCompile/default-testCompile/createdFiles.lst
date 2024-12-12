@@ -1,7 +1,0 @@
-APITest.class
-utils\ExcelUtils.class
-utils\ExcelUtilsTest.class
-createUser.class
-DeleteUser.class
-utils\Randomgenerator.class
-changePassword.class
